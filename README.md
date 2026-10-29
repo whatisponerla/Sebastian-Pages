@@ -2,7 +2,7 @@ Hi, I'm Sebastian Pages 👋
 
 Software Development Student
 
-I'm a Software Development student at [Name of Institution], Argentina. I'm currently developing my programming skills and learning how to design, build, and maintain software applications.
+I'm a Software Development student at (ISFD Y T N°26) Instituto Superior de Formacion Docente y Tecnica N° 26, Argentina. I'm currently developing my programming skills and learning how to design, build, and maintain software applications.
 
 I'm interested in technology, problem-solving, and learning new tools and programming languages. My goal is to gain practical experience and continue growing as a software developer.
 
@@ -10,7 +10,7 @@ I'm interested in technology, problem-solving, and learning new tools and progra
 
 Course: Higher Technical Degree in Software Development
 
-Institution: [Name of Institution]
+Institution: Instituto Superior de Formacion Docente y Tecnica N° 26
 
 Year of Study: Second
 
